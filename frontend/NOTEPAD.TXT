@@ -1,0 +1,4 @@
+babel => converter(transpilar) código do REACT para um código que o browser entenda
+webpack => Pra cada tipo de aquivo (.js, .css, .ong) vai converter de uma maneira diferente.
+
+Loaders: babel-loader,  css-loader, image-loader, file-loader
